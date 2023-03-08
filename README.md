@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepeshKalura
-- 👀 I’m interested in Learn new codes.
-- 🌱 I’m currently learning Machine Learning.
+- 👀 I’m interested in Building New Technologies.
+- 🌱 I’m currently learning Flutter Learning.
 - 💞️ I’m looking to collaborate on to many projects.
 - 📫 How to reach me just mail me on lilykalura@gmail.com
 
