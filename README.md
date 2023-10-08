@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Welcome to My GitHub Profile! 👋<br><br>## 🔭 I’m currently working on<br>- [Project A](https://github.com/DeepeshKalura/custom_capacity_building_training_app)<br>- [Project B](https://github.com/DeepeshKalura/AmazoneCloneWithFlutter)<br><br>## 🌱 I’m currently learning<br>- Backend Development with Nodejs<br>- Polishing skills of Flutter<br><br>## 💬 Ask me about<br>- Backend with Nodejs<br>- Dart Programming<br>- Git and version control<br>- <br><br>## 📫 How to reach me<br>- Email: deepeshkalurs@gmail.com<br>- LinkedIn: [Deepesh Kalura](https://www.linkedin.com/in/deepesh-kalura-626037232/)<br>
+# 💫 Deepesh Kalura
+Welcome to My GitHub Profile! 👋<br><br>## 🔭 I’m currently working on<br>- [Project A](https://github.com/DeepeshKalura/custom_capacity_building_training_app)<br>- [Project B](https://github.com/DeepeshKalura/AmazoneCloneWithFlutter)<br><br>## 🌱 I’m currently learning<br>- Backend Development with Nodejs<br>- Polishing skills of Flutter<br><br>## 💬 Ask me about<br>- Backend with Nodejs<br>- Dart Programming<br>- Git and version control<br>- <br><br>## 📫 How to reach me<br>- Email: deepeshkalurs@gmail.com<br>- LinkedIn: [Deepesh Kalura](https://www.linkedin.com/in/deepesh-kalura-626037232/)<br>
 
 
 ## 🌐 Socials:
