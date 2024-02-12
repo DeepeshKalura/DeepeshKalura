@@ -14,7 +14,7 @@
 
 ## Github Status
 
-<table>
+<table border="0">
   <tr>
     <th>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DeepeshKalura&theme=shadow-blue&border_radius=10">
@@ -24,5 +24,18 @@
     </th>
   </tr>
 </table>
+
+<a href="https://github.com/DeepeshKalura/2_social_media_python_fast_Api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepeshKalura&repo=2_social_media_python_fast_Api&theme=shadow_blue" />
+</a>
+<a href="https://github.com/DeepeshKalura/textToSpeechForHealthCareAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=DeepeshKalura&repo=textToSpeechForHealthCareAPI&theme=shadow_blue" />
+</a>
+
+<a href="https://twitter.com/DeepeshKalura1">
+  <img align="right" alt="Deepesh Kalura | Twitter" width="21px" src="../DeepeshKalura/assets/icons/twitter-svgrepo-com.svg" />
+</a>
+
+
 
 </div>
