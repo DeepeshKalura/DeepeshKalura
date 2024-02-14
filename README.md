@@ -27,8 +27,8 @@
 
 ## Projects
 
-<a href="https://github.com/DeepeshKalura/textToSpeechForHealthCareAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=DeepeshKalura&repo=textToSpeechForHealthCareAPI&theme=shadow_blue" />
+<a href="https://github.com/DeepeshKalura/HealixServer">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=DeepeshKalura&repo=HealixServer&theme=shadow_blue" />
 </a>
 <a href="https://github.com/DeepeshKalura/2_social_media_python_fast_Api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepeshKalura&repo=2_social_media_python_fast_Api&theme=shadow_blue" />
