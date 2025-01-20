@@ -25,18 +25,6 @@
   </tr>
 </table>
 
-## Projects
-
-<a href="https://github.com/DeepeshKalura/HealixServer">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=DeepeshKalura&repo=HealixServer&theme=shadow_blue" />
-</a>
-<a href="https://github.com/DeepeshKalura/2_social_media_python_fast_Api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepeshKalura&repo=2_social_media_python_fast_Api&theme=shadow_blue" />
-</a>
-<a href="https://github.com/DeepeshKalura/fitbuddy_north_shore_hack">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=DeepeshKalura&repo=fitbuddy_north_shore_hack&theme=shadow_blue" />
-</a>
-
 
 ## Connect Here
 <a href="https://twitter.com/DeepeshKalura1">
